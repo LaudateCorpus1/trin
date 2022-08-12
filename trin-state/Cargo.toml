@@ -19,4 +19,4 @@ tracing-futures = "0.2.5"
 sha3 = "0.9.1"
 tokio = {version = "1.8.0", features = ["full"]}
 trin-core = { path = "../trin-core" }
-rocksdb = "0.16.0"
+rocksdb = "0.19.0"
